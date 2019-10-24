@@ -4,7 +4,7 @@ Winner ZealHack'19 hackathon conducted by College of Engineering, Cherthala &amp
 <img width="93" alt="zealous" src="https://user-images.githubusercontent.com/20029287/54477450-f2751b80-482d-11e9-910c-d022cc353c2a.png">
 
 
-# ZEALHACK
+# ZEALHACK19
 
 About:
 -
